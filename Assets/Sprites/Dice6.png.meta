@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 4d70bef1a8ce0e4478b6eb700c6bafcb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dice6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 484
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b50c54b3b9adb42bf400924f941ad5
+      internalID: 279884282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dice6_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 484
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a50da1e13265f948912532a958a844b
+      internalID: -353201092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dice6_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 484
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52dfcbf15d887a4fb2e536c2fa7a6e7
+      internalID: 664279050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dice6_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 484
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1205a4b9329a7347bddf17086193ea1
+      internalID: -2085045789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dice6_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 484
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3068b090234964dacffea5073a02f0
+      internalID: 870017134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dice6_49
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 484
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a0e122197cac242b6fe74c4b820716
+      internalID: -690050403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dice6_0: 279884282
+      Dice6_1: -772505085
+      Dice6_10: 2132877925
+      Dice6_11: 2137919056
+      Dice6_12: -607266204
+      Dice6_13: -1714024697
+      Dice6_14: 1318166830
+      Dice6_15: -1088042663
+      Dice6_16: 2002655556
+      Dice6_17: 1525669643
+      Dice6_18: -82429423
+      Dice6_19: -674212213
+      Dice6_2: 1499772899
+      Dice6_20: 1059601364
+      Dice6_21: -2076092869
+      Dice6_22: 874646165
+      Dice6_23: 979340578
+      Dice6_24: -381003245
+      Dice6_25: 1460717748
+      Dice6_26: -1256740258
+      Dice6_27: 1110172940
+      Dice6_28: -241621394
+      Dice6_29: 171184207
+      Dice6_3: -353201092
+      Dice6_30: -1953463674
+      Dice6_31: -614942441
+      Dice6_32: 1077790947
+      Dice6_33: 1809013493
+      Dice6_34: -1210966091
+      Dice6_35: 1385399406
+      Dice6_36: -1650329399
+      Dice6_37: -1219506077
+      Dice6_38: 1057991095
+      Dice6_39: -1189555493
+      Dice6_4: -746826226
+      Dice6_40: 1938085896
+      Dice6_41: -1177462532
+      Dice6_42: -1242497525
+      Dice6_43: -2085045789
+      Dice6_44: -1579359048
+      Dice6_45: 1204078677
+      Dice6_46: 870017134
+      Dice6_47: 538443604
+      Dice6_48: 876625800
+      Dice6_49: -690050403
+      Dice6_5: 1921354903
+      Dice6_50: 1198385642
+      Dice6_51: -1290367572
+      Dice6_52: -1933445688
+      Dice6_53: 1178084851
+      Dice6_54: -1145782508
+      Dice6_55: -1057581755
+      Dice6_56: 484848674
+      Dice6_57: 1953462921
+      Dice6_58: -1610838955
+      Dice6_59: -71070646
+      Dice6_6: 664279050
+      Dice6_60: -126079643
+      Dice6_61: -1399201379
+      Dice6_7: -712043788
+      Dice6_8: 2077736828
+      Dice6_9: 276989667
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ebce7ba738ca54f4880f17d2700083ae
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Tupo Vyaz
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 62f3e68caa56baa48add4e1229b35997, type: 3}
+  customCharacters: 
+  fontRenderingMode: 1
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
