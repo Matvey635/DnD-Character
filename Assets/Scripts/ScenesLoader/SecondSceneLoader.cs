@@ -20,9 +20,9 @@ public class SecondSceneLoader : MonoBehaviour
 
             var obj = Instantiate(ItemPrefab, Itempanel.transform);
             
-            obj.transform.GetChild(2).transform.GetChild(0).gameObject.GetComponent<Text>().text = Key.Name;
-            obj.transform.GetChild(3).gameObject.GetComponent<Text>().text                       = Key.Count.ToString();
-            obj.transform.GetChild(4).gameObject.SetActive(Key.Equipped);
+            obj.transform.GetChild(1).transform.GetChild(0).gameObject.GetComponent<Text>().text = Key.Name;
+            obj.transform.GetChild(2).gameObject.GetComponent<Text>().text                       = Key.Count.ToString();
+            obj.transform.GetChild(3).gameObject.SetActive(Key.Equipped);
         }
     }
 }
